@@ -1,0 +1,14 @@
+{
+  "name": "techstack",
+  "version": "1.0.0",
+  "description": "Discover what technologies any website is built with. Identify frameworks, libraries, CMS, hosting and more in seconds.",
+  "main": "api/process.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "vercel-build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

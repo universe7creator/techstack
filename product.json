@@ -1,0 +1,24 @@
+{
+  "name": "TechStack Analyzer",
+  "slug": "techstack",
+  "tagline": "Discover what technologies any website is built with. Identify frameworks, libraries, CMS, hosting and more in seconds.",
+  "description": "Discover what technologies any website is built with. Identify frameworks, libraries, CMS, hosting and more in seconds.",
+  "price": "24",
+  "features": [
+    "Detect 80+ technologies",
+    "Instant analysis",
+    "API access included",
+    "Framework detection",
+    "CMS detection",
+    "Hosting detection"
+  ],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": 320,
+  "deployed_cycle": null
+}
