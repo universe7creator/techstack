@@ -8,6 +8,6 @@
     { "src": "/api/health", "dest": "/api/health.js" },
     { "src": "/api/process", "dest": "/api/process.js" },
     { "src": "/api/webhook", "dest": "/api/webhook.js" },
-    { "src": "/(.*)", "dest": "/public/$1" }
+    { "src": "/(.*)", "dest": "/public/index.html" }
   ]
 }
